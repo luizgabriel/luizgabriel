@@ -1,4 +1,4 @@
-I'm Software Engineer with more than 7 years of experience in the tech industry specially in fields like: Full Stack Web Develoment, Cross Platform Development, Microservices Architecture and Big Data.
+I'm a Software Engineer with more than seven years of experience in the tech industry especially in fields like Full Stack Web Development, Cross-Platform Development, Microservices Architecture, and Big Data.
 
 <table>
 <tr>
