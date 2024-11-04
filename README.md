@@ -11,7 +11,7 @@
         I'm passionate about projects that challenge the traditional development landscape.
         I’ve created a cross-platform game engine and a compiler for a functional programming language, each designed to optimize performance with advanced cache-friendly structures and functional programming.</p>
     </td>
-    <td width="320px">
+    <td width="356px">
       <a href="https://app.daily.dev/luizgabriel">
         <img src="https://api.daily.dev/devcards/v2/CSftGDWVblJyWhh2FSxmw.png?r=wlv&type=default" width="356" alt="Luiz Gabriel's Dev Card"/>
       </a>
