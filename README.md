@@ -25,7 +25,7 @@ Since 2014, my career has evolved from monolithic architectures to microservices
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-ten-pied.vercel.app/api/top-langs/?username=Luizgabriel&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10&locale=en" 
+      src="https://github-stats-ten-pied.vercel.app/api/top-langs/?username=Luizgabriel&theme=transparent&layout=compact&langs_count=10&locale=en" 
   />
 </p>
 
